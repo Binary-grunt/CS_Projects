@@ -7,14 +7,9 @@ This repository showcases a series of projects demonstrating proficiency in fund
 
 A collection of projects exploring fundamental concepts in mathematics and calculus, focusing on problem-solving and algorithmic approaches. Current topics include:
 
-- **Rational Functions**:
-  - Simplification and evaluation of rational expressions.
-  - Handling undefined values and discontinuities.
-- **Quadratic Equations**:
-  - Solving quadratic equations using the discriminant and factoring.
-  - Supports real and complex roots.
-- **Newton's Binomial Expansion**:
-  - Computing symbolic and numerical expansions of binomials using Newton's theorem.
+- **Rational Functions**
+- **Quadratic Equations**
+- **Newton's Binomial Expansion**
 
 In progress...
 
